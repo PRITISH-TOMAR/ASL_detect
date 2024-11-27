@@ -1,0 +1,9 @@
+tensorflow
+opencv-contrib-python
+keras
+numpy
+opencv-python
+pillow
+scipy
+tkinter
+matplotlib
